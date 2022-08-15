@@ -1,1 +1,6 @@
-# h5-vue3
+# 基于vue的开发脚手架
+```
+yarn
+yarn dev
+yarn build
+```
